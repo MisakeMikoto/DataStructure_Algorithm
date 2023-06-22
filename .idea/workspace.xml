@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bc66533-1dfe-423d-b9c5-d7428aa581ef" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure_Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/One_2023_5_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/One_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Three_2023_6_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Two_2023_6_1.java" afterDir="false" />
-    </list>
+    <list default="true" id="7bc66533-1dfe-423d-b9c5-d7428aa581ef" name="更改" comment="算法代码" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,12 +145,35 @@
       <workItem from="1685958173231" duration="2505000" />
       <workItem from="1686051603301" duration="15000" />
       <workItem from="1686053128648" duration="11000" />
-      <workItem from="1687402710063" duration="3864000" />
+      <workItem from="1687402710063" duration="4297000" />
     </task>
+    <task id="LOCAL-00001" summary="算法代码">
+      <created>1687417937687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687417937687</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="算法代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法代码" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
