@@ -1,0 +1,65 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"7bc66533-1dfe-423d-b9c5-d7428aa581ef\" name=\"更改\" comment=\"算法代码\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"JavaAutoRunManager\">\n    <enabled-run-configurations>\n      <run-configuration type=\"JUnit\" name=\"Two_2023_6_1.testSwapParis\" />\n    </enabled-run-configurations>\n  </component>\n  <component name=\"MavenImportPreferences\">\n    <option name=\"generalSettings\">\n      <MavenGeneralSettings>\n        <option name=\"localRepository\" value=\"$MAVEN_REPOSITORY$\" />\n        <option name=\"mavenHome\" value=\"$USER_HOME$/.m2/apache-maven-3.9.2\" />\n        <option name=\"userSettingsFile\" value=\"$USER_HOME$/.m2/apache-maven-3.9.2/conf/settings.xml\" />\n      </MavenGeneralSettings>\n    </option>\n  </component>\n  <component name=\"ProjectId\" id=\"2QJkN3ctyA0Ag6BRxKSZhXdxpom\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,\n    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,\n    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,\n    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\n    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RunManager\" selected=\"JUnit.One_Practice.testFindTwoSingleNum\">\n    <configuration name=\"One_Practice.testFindTwoSingleNum\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"DataStructure_Algorithm\" />\n      <option name=\"PACKAGE_NAME\" value=\"\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"One_Practice\" />\n      <option name=\"METHOD_NAME\" value=\"testFindTwoSingleNum\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Two_2023_6_1.testMergeLists\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"DataStructure_Algorithm\" />\n      <option name=\"PACKAGE_NAME\" value=\"\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"Two_2023_6_1\" />\n      <option name=\"METHOD_NAME\" value=\"testMergeLists\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Two_2023_6_1.testReverseKGroup\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"DataStructure_Algorithm\" />\n      <option name=\"PACKAGE_NAME\" value=\"\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"Two_2023_6_1\" />\n      <option name=\"METHOD_NAME\" value=\"testReverseKGroup\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Two_2023_6_1.testRotateRight\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"DataStructure_Algorithm\" />\n      <option name=\"PACKAGE_NAME\" value=\"\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"Two_2023_6_1\" />\n      <option name=\"METHOD_NAME\" value=\"testRotateRight\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Two_2023_6_1.testSwapParis\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"DataStructure_Algorithm\" />\n      <option name=\"PACKAGE_NAME\" value=\"\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"Two_2023_6_1\" />\n      <option name=\"METHOD_NAME\" value=\"testSwapParis\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"JUnit.One_Practice.testFindTwoSingleNum\" />\n        <item itemvalue=\"JUnit.Two_2023_6_1.testRotateRight\" />\n        <item itemvalue=\"JUnit.Two_2023_6_1.testReverseKGroup\" />\n        <item itemvalue=\"JUnit.Two_2023_6_1.testSwapParis\" />\n        <item itemvalue=\"JUnit.Two_2023_6_1.testMergeLists\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"应用程序级\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"默认任务\">\n      <changelist id=\"7bc66533-1dfe-423d-b9c5-d7428aa581ef\" name=\"更改\" comment=\"\" />\n      <created>1685079027669</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1685079027669</updated>\n      <workItem from=\"1685079028933\" duration=\"7360000\" />\n      <workItem from=\"1685101875794\" duration=\"79000\" />\n      <workItem from=\"1685162421052\" duration=\"11105000\" />\n      <workItem from=\"1685326943140\" duration=\"6000\" />\n      <workItem from=\"1685336568871\" duration=\"46000\" />\n      <workItem from=\"1685359179664\" duration=\"1818000\" />\n      <workItem from=\"1685444392381\" duration=\"9000\" />\n      <workItem from=\"1685525940303\" duration=\"4949000\" />\n      <workItem from=\"1685591981923\" duration=\"7492000\" />\n      <workItem from=\"1685613247345\" duration=\"4000\" />\n      <workItem from=\"1685693916648\" duration=\"6000\" />\n      <workItem from=\"1685781007499\" duration=\"5383000\" />\n      <workItem from=\"1685786560174\" duration=\"499000\" />\n      <workItem from=\"1685943051726\" duration=\"4464000\" />\n      <workItem from=\"1685958173231\" duration=\"2505000\" />\n      <workItem from=\"1686051603301\" duration=\"15000\" />\n      <workItem from=\"1686053128648\" duration=\"11000\" />\n      <workItem from=\"1687402710063\" duration=\"4297000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"算法代码\">\n      <created>1687417937687</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1687417937687</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"算法代码\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"算法代码\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <pin-to-top-manager>\n      <pinned-members>\n        <PinnedItemInfo parentTag=\"ListNode\" memberName=\"next\" />\n      </pinned-members>\n    </pin-to-top-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 4a4b9c2a5e950ef60e39d681420981ec3cf6aa56)
++++ b/.idea/workspace.xml	(date 1687419979965)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="7bc66533-1dfe-423d-b9c5-d7428aa581ef" name="更改" comment="算法代码" />
++    <list default="true" id="7bc66533-1dfe-423d-b9c5-d7428aa581ef" name="更改" comment="算法代码">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -40,25 +42,25 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Downloaded.Files.Path.Enabled": "false",
++    "Repository.Attach.Annotations": "false",
++    "Repository.Attach.JavaDocs": "false",
++    "Repository.Attach.Sources": "false",
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "WebServerToolWindowFactoryState": "false",
++    "create.test.in.the.same.root": "true",
++    "git-widget-placeholder": "main",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "settings.editor.selected.configurable": "MavenSettings",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="RunManager" selected="JUnit.One_Practice.testFindTwoSingleNum">
+     <configuration name="One_Practice.testFindTwoSingleNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+       <module name="DataStructure_Algorithm" />
